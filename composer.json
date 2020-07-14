@@ -1,0 +1,25 @@
+{
+    "name": "pictus-media/test-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "Pictus Media",
+            "email": "info@pictus.media"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\Modules\\Main\\": ""
+        }
+    }
+}

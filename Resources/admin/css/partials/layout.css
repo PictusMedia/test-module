@@ -1,0 +1,15 @@
+.layout {
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    align-items: flex-start;
+}
+.layout-header {
+    width: 100%;
+}
+.layout-side {
+    width: 300px;
+}
+.layout-content {
+    width: calc(100% - 300px);
+}
