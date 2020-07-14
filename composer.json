@@ -1,6 +1,7 @@
 {
     "name": "pictus-media/test-module",
     "description": "",
+    "type": "laravel-module",
     "authors": [
         {
             "name": "Pictus Media",
