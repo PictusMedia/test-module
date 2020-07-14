@@ -1,0 +1,5 @@
+@import "./config/reset.css";
+@import "./partials/layout.css";
+
+@import "/Modules/News/Resources/admin/css/app.css";
+
